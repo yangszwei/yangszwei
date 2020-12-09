@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![Si-Wei's github stats](https://github-readme-stats.vercel.app/api?username=yangszwei&count_private=true&show_icons=true)](https://github.com/yangszwei)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangszwei&layout=compact)](https://github.com/yangszwei)
 
-[![Si-Wei's github stats](https://github-readme-stats.vercel.app/api?username=yangszwei)](https://github.com/yangszwei)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yangszwei&layout=compact&langs_count=10)](https://github.com/yangszwei)
+(Cards powered by [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
