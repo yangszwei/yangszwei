@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![wakatime](https://wakatime.com/badge/user/a3820300-7569-43d7-bf07-06e3d8b68812.svg)](https://wakatime.com/@a3820300-7569-43d7-bf07-06e3d8b68812)
+
 <!--
 **yangszwei/yangszwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
