@@ -1,9 +1,13 @@
 ### Hi there 👋
 
+**I'm Si-Wei Yang** - I am an undergraduate student specializing in Information Management. I have a keen interest in web development and possess skills in both front-end and back-end technologies. Moreover, I have hands-on experience in managing my own Debian/Ubuntu servers for hosting websites and databases, along with utilizing various other tools.
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,go,java,php,py,svelte,tailwind,redis,mysql,mongodb,linux,nginx,docker,postman)](https://skillicons.dev)
+
 [![wakatime](https://wakatime.com/badge/user/a3820300-7569-43d7-bf07-06e3d8b68812.svg)](https://wakatime.com/@a3820300-7569-43d7-bf07-06e3d8b68812)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yangszwei&count_private=true)
-[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yangszwei&layout=compact)](https://wakatime.com/@yangszwei)
+![GitHub stats](https://github-readme-stats-smoky-two-10.vercel.app/api?username=yangszwei&count_private=true)
+[![Wakatime stats](https://github-readme-stats-smoky-two-10.vercel.app/api/wakatime?username=yangszwei&layout=compact)](https://wakatime.com/@yangszwei)
 
 <!--
 **yangszwei/yangszwei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
