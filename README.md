@@ -6,7 +6,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/a3820300-7569-43d7-bf07-06e3d8b68812.svg)](https://wakatime.com/@a3820300-7569-43d7-bf07-06e3d8b68812)
 
-![GitHub stats](https://github-readme-stats-yangszwei.vercel.app/api?username=yangszwei&count_private=true)
+![GitHub stats](https://github-readme-stats-yangszwei.vercel.app/api?username=yangszwei&show_icons=true)
 [![Wakatime stats](https://github-readme-stats-yangszwei.vercel.app/api/wakatime?username=yangszwei&layout=compact)](https://wakatime.com/@yangszwei)
 
 <!--
