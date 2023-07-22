@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm Si-Wei Yang** - I am an undergraduate student specializing in Information Management. I have a keen interest in web development and possess skills in both front-end and back-end technologies. Moreover, I have hands-on experience in managing my own Debian/Ubuntu servers for hosting websites and databases, along with utilizing various other tools.
+**I'm Si-Wei Yang** - I am an undergraduate student specializing in Information Management. I am interested in web development and possess skills in full-stack technologies. Additionally, I have hands-on experience in managing Linux servers for hosting websites and various other services.
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,go,java,php,py,svelte,tailwind,redis,mysql,mongodb,linux,nginx,docker,postman)](https://skillicons.dev)
 
