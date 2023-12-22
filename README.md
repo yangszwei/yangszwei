@@ -2,7 +2,13 @@
 
 **I'm Si-Wei Yang** - I am an undergraduate student specializing in Information Management. I am interested in web development and possess skills in full-stack technologies. Additionally, I have hands-on experience in managing Linux servers for hosting websites and various other services.
 
+[Learn More](https://siweiyang.com/)
+
+#### My Skills
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,go,java,php,py,svelte,tailwind,redis,mysql,mongodb,linux,nginx,docker,postman)](https://skillicons.dev)
+
+#### Stats
 
 [![wakatime](https://wakatime.com/badge/user/a3820300-7569-43d7-bf07-06e3d8b68812.svg)](https://wakatime.com/@a3820300-7569-43d7-bf07-06e3d8b68812)
 
