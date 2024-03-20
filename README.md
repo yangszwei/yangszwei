@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm Si-Wei Yang** - I am an undergraduate student specializing in Information Management. I am interested in web development and possess skills in full-stack technologies. Additionally, I have hands-on experience in managing Linux servers for hosting websites and various other services.
+**I'm Si Wei Yang**, an Information Management undergraduate at NTUNHS.
 
 [Learn More](https://siweiyang.com/)
 
